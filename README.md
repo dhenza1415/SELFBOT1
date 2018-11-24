@@ -1,9 +1,9 @@
-#SELFBOT ONLY<br>
-#JANGAN PERNAH SLAHGUNAKAN SC INI<br>
-#BUAT YG MAU UBAH SILAHKAN UP SUKA SUAKA<br>
-#SUPORT BY: TBP [SILENTKILLER] TEAM BEBEK BOT & JUNSAN JUNIOR<br>
+# SELFBOT ONLY<br>
+# JANGAN PERNAH SLAHGUNAKAN SC INI<br>
+# BUAT YG MAU UBAH SILAHKAN UP SUKA SUAKA<br>
+# SUPORT BY: TBP [SILENTKILLER] TEAM BEBEK BOT & JUNSAN JUNIOR<br>
 
-INSTALL MELALUI VPS<br>
+# INSTALL MELALUI VPS<br>
 ========================================= <br>
 sudo apt-get update<br>
 sudo apt-get install git<br>
@@ -26,7 +26,8 @@ cd SELFBOT1<br>
 ls<br>
 python selfbotsk.py<br>
 ======================================== <br>
-INSTALL Di TERMUX :
+
+# INSTALL Di TERMUX :
 pkg update<br>
 pkg install git<br>
 pkg install python3-pip<br>
