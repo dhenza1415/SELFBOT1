@@ -28,10 +28,11 @@ python selfbotsk.py<br>
 ======================================== <br>
 
 # INSTALL Di TERMUX :
-pkg update<br>
+apt-get install python --upgrade<br>
+pkg install python3<br>
 pkg install git<br>
-pkg install python3-pip<br>
-pip3 install rsa<br>
+pkg install nano<br>
+pkg install rsa<br>
 pip3 install thrift==0.11.0<br>
 pip3 install requests<br>
 pip3 install bs4<br>
