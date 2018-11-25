@@ -46,7 +46,7 @@ pip3 install goslate<br>
 pip3 install wikipedia<br>
 pip3 install youtube_dl<br>
 pip3 install tweepy<br>
-git clone https://github.com/dhenza1415/<br>
+git clone https://github.com/dhenza1415/SELFBOT1<br>
 cd SELFBOT1<br>
 ls<br>
 python3 selfbotsk.py<br>
