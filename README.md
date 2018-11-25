@@ -27,9 +27,10 @@ ls<br>
 python selfbotsk.py<br>
 ======================================== <br>
 
-# INSTALL Di TERMUX :
-apt-get install python --upgrade<br>
+# INSTALL MELALUI TERMUX<br>
+
 pkg install python3 -y<br>
+apt-get install python --upgrade<br>
 pkg install git -y<br>
 pkg install nano -y<br>
 pkg install rsa -y<br>
