@@ -33,7 +33,7 @@ pkg install python3 -y<br>
 apt-get install python --upgrade<br>
 pkg install git -y<br>
 pkg install nano -y<br>
-pip3 install rsa -y<br>
+pip3 install rsa<br>
 pip3 install thrift==0.11.0<br>
 pip3 install requests<br>
 pip3 install bs4<br>
