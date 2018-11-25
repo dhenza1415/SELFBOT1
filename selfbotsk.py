@@ -35,7 +35,7 @@ myProfile = {
 }
 
 helpMessage ="""╔════════════════════ 
-║          SILENT TEAM BOT V'selfbot
+║┈✇✇  sɪʟᴇɴᴛ ᴛᴇᴀᴍ ʙᴏᴛ V'selfbot✇ ✇┈
 ╠════════════════════
 ╠⍟➣  ᴍʏ ɪᴅ
 ╠⍟➣  ᴍᴇ
