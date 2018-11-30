@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#thanks to allfams
+#THAKS TO ALL TEAM BOT
 
 from LineAPI.linepy import *
 from LineAPI.akad.ttypes import Message
@@ -177,7 +177,7 @@ helpMessage ="""╔════════════════════
 ╠═══════════════════
 ║ SILENT TΣΔM βΩT
 ╠═══════════════════
-╠⍟➣line://ti/p/~teambotptotect
+╠⍟➣line://ti/p/~teambotprotect
 ╠⍟➣line://ti/p/~dhenz415
 ╚═══════════════════
 """
