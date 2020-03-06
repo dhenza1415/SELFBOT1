@@ -29,13 +29,13 @@ class Config(object):
     }
 
     APP_TYPE    = ApplicationType._VALUES_TO_NAMES[368]
-    APP_VER     = '1.4.17'
-    CARRIER     = '51089, 1-0'
+    APP_VER     = '2.3.2'
+    CARRIER     = '51010,1-0'
     SYSTEM_NAME = 'SILENTKILLER'
     SYSTEM_VER  = '11.2.5'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
-
+    
     def __init__(self):
         self.APP_NAME = '%s\t%s\t%s\t%s' % (self.APP_TYPE, self.APP_VER, self.SYSTEM_NAME, self.SYSTEM_VER)
         self.USER_AGENT = 'Line/%s' % self.APP_VER
